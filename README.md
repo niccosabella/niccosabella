@@ -1,6 +1,6 @@
 # <a href="www.linkedin.com/in/niccolas-sabella-70852b24b">Niccolas Sabella</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I focus on IT and cybersecurity with a hands on approach and enjoy working through complex challenges with real projects. From understanding how systems operate to identifying risks and securing them, I use these projects to build practical skills and improve how I approach security. This page tracks my work, progress, and the effort I put into developing stronger security practices.
 
 
 ## ⚠️ Vulnerability Management Projects
