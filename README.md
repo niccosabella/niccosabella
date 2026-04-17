@@ -10,6 +10,7 @@ I focus on IT and cybersecurity with a hands on approach and enjoy working throu
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/niccosabella/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Failed RDP Login)](https://github.com/niccosabella/failed-RDP-to-IP-geolocation-information)**
 
 <hr/>
 
