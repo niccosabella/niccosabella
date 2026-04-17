@@ -13,11 +13,8 @@ I focus on IT and cybersecurity with a hands on approach and enjoy working throu
 
 <hr/>
 
-## 🤳 Connect With Me
-<a href="https://linkedin.com/in/yourprofile">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <sub><sup><span style="color:blue;">LinkedIn</span></sup></sub>
-</a>
+## 🤳 Connect With Me 
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/niccolas-sabella-70852b24b
 
