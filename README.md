@@ -7,15 +7,15 @@ I focus on IT and cybersecurity with a hands on approach and enjoy working throu
 
 - **[Vulnerability Management Program Implementation](https://github.com/niccosabella/vulnerability-management-program)**
 
+## 🧠 Cyber Threat Intelligence Projects
+
+- **[OpenCTI & MISP Threat Intelligence Lab](https://github.com/niccosabella/opencti-misp-threat-intelligence-lab)**
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/niccosabella/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Failed RDP Login)](https://github.com/niccosabella/failed-RDP-to-IP-geolocation-information)**
 - **[Threat Hunting Challenge: Signals Before the Noise ](https://github.com/niccosabella/signals-before-the-noise)**
-
-## 🧠 Cyber Threat Intelligence Projects
-
-- **[OpenCTI & MISP Threat Intelligence Lab](https://github.com/niccosabella/opencti-misp-threat-intelligence-lab)**
 
 <hr/>
 
